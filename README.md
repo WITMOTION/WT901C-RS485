@@ -1,4 +1,4 @@
-# HWT905-RS485
+# WT901C-RS485
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/HWT905-RS485
+https://github.com/WITMOTION/WT901C-RS485
 
 Google Drive: 
-https://drive.google.com/open?id=1w-_JR3ePrYNDjyPX2kuOCh0XKBHZI2LR
+https://drive.google.com/open?id=16Em9v_R65KFIAzRUO5areG09W-yr36sA
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905-RS485 Playlist: 
-https://www.youtube.com/watch?v=1Fzp9-R06bo&list=PL43tdDrVL_VA8effnx45yM88R0IUPqCwX
+WT901C-RS485 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VB_2wex1HQRxi-rLPTdodeD
 
 -----------
 After-sale Service& Technical Support: 
