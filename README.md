@@ -1,5 +1,5 @@
-# HWT905-TTL
-Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
+# HWT905-RS232
+Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
 
@@ -17,19 +17,18 @@ Unzip the .zip file and you will have a directory containing the files.
 
 Document download link:
 
-
 Github 
-https://github.com/WITMOTION/HWT905-TTL
+https://github.com/WITMOTION/HWT905-RS232
 
 Google Drive: 
-https://drive.google.com/open?id=1t1ePAQruqrtrFa7YrY5qTjl45rS_r66_
+https://drive.google.com/open?id=1s-7NIhHXFyLhF8TmCFdrVPz80SwS3C1i
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905-TTL Playlist: 
-https://www.youtube.com/watch?v=yDCIK_ZQ0DE&list=PL43tdDrVL_VAWklrpsfI1xJy0s3cW5bv9
+HWT905-RS232 Playlist: 
+https://www.youtube.com/watch?v=yDCIK_ZQ0DE&list=PL43tdDrVL_VCsp1aKVWzthXqZ-YcdOi-V
 
 -----------
 After-sale Service& Technical Support: 
